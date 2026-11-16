@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行产物
+输出/
+输出_试跑/
+_run_cfg.json
+
+# 编辑器
+.vscode/
+.idea/
